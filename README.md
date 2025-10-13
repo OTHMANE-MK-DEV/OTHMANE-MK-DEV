@@ -41,7 +41,7 @@ I create high-performance applications with a strong focus on user experience.
 ---
 -->
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,python" style="height:40px; margin:5px;" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" style="height:40px; margin:5px;" />
   <img src="https://avatars.githubusercontent.com/u/139895814?v=4" style="height:40px; margin:5px;" />
@@ -78,21 +78,21 @@ I create high-performance applications with a strong focus on user experience.
 
 ---
 
-## <span style="color: #4ECDC4; font-size: 28px;">📊 Development Analytics & Performance Metrics</span>
+## <span style="color: #4ECDC4; font-size: 28px;">📊 Development Analytics & Performance Metrics</span> -->
 
-<div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(69, 183, 209, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
+<!-- <div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(69, 183, 209, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=OTH-DOT&theme=github_dark_dimmed&hide_border=false" style="height: 200px; width: 100%; object-fit: contain;" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTH-DOT&theme=github_dark_dimmed&hide_border=false&layout=compact" style="height: 200px; width: 100%; object-fit: contain;" />
 </p>
-</div>
+</div> -->
 
 ---
 
-<div style="text-align: center; margin: 40px 0; padding: 25px; background: linear-gradient(45deg, #FF6B6B, #4ECDC4); border-radius: 15px;">
+<!-- <div style="text-align: center; margin: 40px 0; padding: 25px; background: linear-gradient(45deg, #FF6B6B, #4ECDC4); border-radius: 15px;">
   <p style="color: white; font-size: 18px; font-weight: 600; margin: 0;">
     💡 <span style="color: #FFD700;">Open to exciting opportunities</span> • 
     <span style="color: #FFD700;">Ready for challenging projects</span> • 
     <span style="color: #FFD700;">Let's build something amazing together</span>
   </p>
-</div>
+</div> -->

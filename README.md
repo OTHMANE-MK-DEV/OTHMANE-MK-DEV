@@ -2,7 +2,7 @@
   <img 
     src="https://raw.githubusercontent.com/OTHMANE-MK-DEV/OTHMANE-MK-DEV/main/19501.gif" 
     width="100%" 
-    style="max-height: 200px; object-fit: cover;"
+    style="max-height: 100px; object-fit: cover;"
     alt="Animated Banner"
   />
 </div>

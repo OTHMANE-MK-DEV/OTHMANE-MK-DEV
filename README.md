@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/OTHMANE-MK-DEV/OTHMANE-MK-DEV/main/githubAnimated.gif" 
+    src="https://raw.githubusercontent.com/OTHMANE-MK-DEV/OTHMANE-MK-DEV/main/19501.gif" 
     width="100%" 
     alt="Animated Banner"
   />

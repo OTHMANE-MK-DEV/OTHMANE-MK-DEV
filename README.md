@@ -2,10 +2,10 @@
   <img 
     src="https://raw.githubusercontent.com/OTHMANE-MK-DEV/OTHMANE-MK-DEV/main/19501.gif" 
     width="100%" 
+    style="max-height: 200px; object-fit: cover;"
     alt="Animated Banner"
   />
 </div>
-
 
  # <span style="color: #00D4FF; font-weight: 900; font-size: 48px;">Hi there, I'm Othmane Makkour</span> 👋
 

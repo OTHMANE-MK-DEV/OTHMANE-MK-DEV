@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OTH-DOT/OTH-DOT/refs/heads/main/Blue%20and%20White%20Geometric%20Digital%20Marketer%20LinkedIn%20Banner%20(2).png" width="100%" height="60%" alt="Musashi Miyamoto" />
+  <img src="[https://raw.githubusercontent.com/OTH-DOT/OTH-DOT/refs/heads/main/Blue%20and%20White%20Geometric%20Digital%20Marketer%20LinkedIn%20Banner%20(2).png](https://github.com/OTHMANE-MK-DEV/OTHMANE-MK-DEV/blob/main/githubAnimated.gif)" width="100%" height="60%" alt="Musashi Miyamoto" />
  </div> 
 
  # <span style="color: #00D4FF; font-weight: 900; font-size: 48px;">Hi there, I'm Othmane Makkour</span> 👋
